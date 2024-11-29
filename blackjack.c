@@ -1,6 +1,6 @@
 
 
-#include "blackjack_sol.h"
+#include "blackjack.h"
 #include <stdlib.h>
 #include <time.h>
 #include <stdbool.h>
